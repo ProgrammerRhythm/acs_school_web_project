@@ -1,5 +1,4 @@
 # acs_school_web_project
-# Project Name
 
 A modern web application built with **Vite** and **React**, featuring Firebase for contact form submission and basic animations for an enhanced user experience.
 
@@ -25,7 +24,7 @@ A modern web application built with **Vite** and **React**, featuring Firebase f
     npm install
 3. **Start the development server**:
     npm run dev
-    
+
 ## Additional Notes
 Ensure you have Node.js and npm installed on your machine.
 
