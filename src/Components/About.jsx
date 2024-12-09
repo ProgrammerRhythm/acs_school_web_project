@@ -101,7 +101,7 @@ const About = () => {
                 {/* Polaroid Section */}
                 <div style={polaroidContainerStyle}>
                     <div style={polaroidStyle}>
-                        <img src={OutWork} alt="Outside Work" style={polaroidImageStyle} />
+                        <img  src={OutWork} alt="Outside Work" style={polaroidImageStyle} />
                         <p style={polaroidCaptionStyle}>Outside Work </p>
                     </div>
                     <div style={{ ...polaroidStyle, transform: 'rotate(3deg)' }}>

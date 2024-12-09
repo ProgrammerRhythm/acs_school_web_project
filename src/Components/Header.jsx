@@ -5,9 +5,9 @@ import './Style.css';
 const Header = () => {
     return (
         <div className="container">
-          <div className='Header '>
-            <h1 className='HelloW'>Hello World!</h1>
-            <h3 className='Sintro'>This is Rhythm Munshi</h3>
+          <div  className='Header '>
+            <h1  className='HelloW animate__animated animate__wobble'>Hello World!</h1>
+            <h3 className='Sintro animate__animated animate__flash animate__delay-.5s'>This is Rhythm Munshi</h3>
             <TypingAnimation></TypingAnimation>
             <ShortIntro></ShortIntro>
         </div>
