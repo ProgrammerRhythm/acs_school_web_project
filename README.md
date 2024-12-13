@@ -32,10 +32,6 @@ A modern web application built with **Vite** and **React**, featuring Firebase f
 ## Additional Notes
 Ensure you have Node.js and npm installed on your machine.
 
-# Submission Update
-I received the mail on **December 8th**, and the submission deadline was **December 9th**, which left me with very little time to complete it. 
-Additionally, my **exams are ongoing**, so I couldn't finish the **'Coding Skill Test'** section. 
-If I get more time, I will add this part.
-
+##Coding Problem : https://github.com/ProgrammerRhythm/Acs_Prb_Slv
 
 If you have any questions or suggestions, feel free to reach out at programmingwithrm@gmail.com.
